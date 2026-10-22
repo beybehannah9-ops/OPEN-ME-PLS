@@ -23,7 +23,7 @@ const scenes = {
 const songs = [
   {
     scene: "christmas",
-    file: "music/Alex Crichton - Merry Christmas, i miss you (Lyrics).mp3",
+    file: "Alex Crichton - Merry Christmas, i miss you (Lyrics).mp3",
     start: 130,
     end: 203,
     lyrics: [
@@ -45,7 +45,7 @@ const songs = [
   },
   {
     scene: "storm",
-    file: "music/SHEAN - Ako Ang Bagyo (Lyrics).mp3",
+    file: "SHEAN - Ako Ang Bagyo (Lyrics).mp3",
     start: 50,
     end: 120,
     lyrics: [
@@ -65,7 +65,7 @@ const songs = [
   },
   {
     scene: "autumn",
-    file: "music/All Too Well (10 Minute Version) (Taylor's Version) (From The Vault) (Lyric Video).mp3",
+    file: "All Too Well (10 Minute Version) (Taylor's Version) (From The Vault) (Lyric Video).mp3",
     start: 494,
     end: 570,
     lyrics: [
@@ -85,7 +85,7 @@ const songs = [
   },
   {
     scene: "muli",
-    file: "music/Ace Banzuelo - Muli (Secret Verse) (Lyrics).mp3",
+    file: "Ace Banzuelo - Muli (Secret Verse) (Lyrics).mp3",
     start: 96,
     end: 190,
     lyrics: [
@@ -120,7 +120,7 @@ const songs = [
   },
   {
     scene: "window",
-    file: "music/Missing Me - Rj Helton (Lyrics).mp3",
+    file: "Missing Me - Rj Helton (Lyrics).mp3",
     start: 47,
     end: 120,
     lyrics: [
@@ -141,7 +141,7 @@ const songs = [
   },
   {
     scene: "road",
-    file: "music/Boyz II Men - End Of The Road.mp3",
+    file: "Boyz II Men - End Of The Road.mp3",
     start: 99,
     end: 175,
     lyrics: [
